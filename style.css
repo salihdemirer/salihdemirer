@@ -3,3 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+.sidebar{
+    position: fixed;
+    width: 25%;
+}
+.content{
+    margin-left: 25%;
+}
+.img-thumbnail{
+    width: 150px;
+    height: 150px;
+    border:1px solid black;
+    border-radius: 50%;
+}
+
