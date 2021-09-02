@@ -1,4 +1,4 @@
-<button>Translate</button>
+<button type="button">Türkçe için tıklayın!</button>
 ### Hello there 👋
 I'm currently studying Mathematic and Computer Science
 
