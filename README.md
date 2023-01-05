@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, GCP, Azure**
 
-- 📫 How to reach me **sfdemirer333@outlook.com**
+- 📫 How to reach me **salih.demirer@outlook.com**
 
 - 📄 Know about my experiences [https://salihdemirer.tech/](https://salihdemirer.tech/)
 
