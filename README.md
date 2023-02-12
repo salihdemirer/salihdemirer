@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salih</h1>
-<h3 align="center">Cloud Management Intern from Turkey</h3>
+<h3 align="center">Cloud DevOps Engineer from Turkey</h3>
 
-- 🌱 I’m currently learning **Kubernetes, GCP, Azure**
+- 🌱 I’m currently learning **GCP, Kubernetes, Terraform**
 
 - 📫 How to reach me **salih.demirer@outlook.com**
 
