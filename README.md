@@ -19,8 +19,8 @@
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
+<table><tr><td valign="top" width="100%">
 
 - 📘 I’m currently learning GCP, Kubernetes, Terraform  
   
@@ -31,11 +31,6 @@
 - 📄Know about my experiences https://salihdemirer.tech/  
 
 
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
