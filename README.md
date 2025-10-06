@@ -28,10 +28,6 @@
 - 📫How to reach me salih.demirer@outlook.com  
   
 
-- 📄Know about my experiences https://salihdemirer.tech/  
-
-
-
 <br/>  
 
 
